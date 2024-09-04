@@ -4,7 +4,7 @@ date: 2024-09-04T02:09:47.347Z
 description: Theo chuyên gia thời tiết, bão số 3 (Yagi) là cơn bão rất mạnh, có
   khả năng mạnh tới cấp 14, giật cấp 17, do vậy phạm vi ảnh hưởng rất rộng, gió
   bão và sóng lớn có thể đánh chìm tàu thuyền có trọng tải lớn.
-image: th.jpg
+image: vnapotalnamdinhkeugoitauthuyenvaonoitranhtrubaoso37571023-1725416692624520847856.webp
 ---
 Theo Trung tâm Dự báo khí tượng thủy văn quốc gia lúc 7h sáng nay 4-9, tâm bão số 3 đang ở cách đảo Hải Nam (Trung Quốc) khoảng 770km về phía đông. Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 11 (103-117km/h), giật cấp 13.
 
